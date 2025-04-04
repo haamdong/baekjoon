@@ -1,1 +1,1 @@
-int main(){puts("nkugwan");}
+main(){puts("nkugwan");}
